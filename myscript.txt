@@ -2,5 +2,5 @@ $VAR=foo
 print $VAR
 pwd
 whoami
-theme red
+theme green
 log
