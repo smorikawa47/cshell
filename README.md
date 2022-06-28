@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/80607636/176270880-df58f44a-cf31-413e-
 ## Script mode
 cshell allows the user to provide commands using a **txt file**
 
-For example, myscript.txt contains following commands
+For example, myscript.txt contains the following commands
 ```
 $VAR=foo
 print $VAR
