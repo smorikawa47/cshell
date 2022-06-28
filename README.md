@@ -9,7 +9,7 @@ cshell comes with 4 built-in commands:
   - cshell supports 3 colours: red, green, and blue
 - **log**
   - The user can see the **commands history**
-  - 0 indicates valid a command, and 1 indicates an invalid command
+  - 0 indicates a valid command, and 1 indicates an invalid command
 - **exit**
 
 https://user-images.githubusercontent.com/80607636/176273304-4f4757a0-59ef-4672-8485-e8a8752ee01d.mov
