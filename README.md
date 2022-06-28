@@ -20,7 +20,7 @@ cshell also supports non-built-in commands such as **ls**, **pwd**, **whoami**, 
 https://user-images.githubusercontent.com/80607636/176270941-4e55bfc8-62e2-4fa6-b1cf-75e326ce3722.mov
 
 ## Environment variable
-cshell allows the user to **define** and **update** an environment variable. Once an environment variable is defined, the user can print it using the print command followed by the environment variable name
+cshell allows the user to **define** and **update** an environment variable. Once an environment variable is defined, the user can print it using the print command followed by the environment variable name starting with `$` sign
 
 https://user-images.githubusercontent.com/80607636/176270880-df58f44a-cf31-413e-87c1-80687febae0f.mov
 
