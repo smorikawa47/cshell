@@ -36,6 +36,6 @@ whoami
 theme green
 log
 ```
-And by typing ./"name of the executable" myscript.txt, cshell executes the commands written on myscript.txt
+And by typing `./"name of the executable" myscript.txt`, cshell executes the commands written on myscript.txt
 
 https://user-images.githubusercontent.com/80607636/176270821-ff9f4d64-af0d-4626-9af2-f2ba49cfd85a.mov
