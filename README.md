@@ -25,7 +25,7 @@ cshell allows the user to **define** and **update** an environment variable. Onc
 https://user-images.githubusercontent.com/80607636/176270880-df58f44a-cf31-413e-87c1-80687febae0f.mov
 
 ## Script mode
-cshell allows the user to provide commands using **txt file**
+cshell allows the user to provide commands using a **txt file**
 
 For example, myscript.txt contains following commands
 ```
