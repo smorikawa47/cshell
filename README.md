@@ -12,7 +12,7 @@ cshell comes with 4 built-in commands:
   - 0 indicates valid a command, and 1 indicates an invalid command
 - **exit**
 
-https://user-images.githubusercontent.com/80607636/176270969-baa490c4-f1b3-4ce3-a35c-46ab035bcff1.mov
+https://user-images.githubusercontent.com/80607636/176273304-4f4757a0-59ef-4672-8485-e8a8752ee01d.mov
 
 ## Non-built-in commands
 cshell also supports non-built-in commands such as **ls**, **pwd**, **whoami**, and these commands are executed using **execvp**
